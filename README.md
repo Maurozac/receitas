@@ -1,2 +1,2 @@
 # receitas
-Coisas simples feitas de modo simples
+Coisas simples feitas o mais simples possível
