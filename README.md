@@ -1,2 +1,2 @@
 # receitas
-Coisas simples feitas o mais simples possível
+Para quem vive na nuvem
